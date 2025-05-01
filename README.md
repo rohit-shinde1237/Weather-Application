@@ -1,5 +1,5 @@
 # Hey Hello 
-# My Self Rohit Shinde 
+# My Self Rohit 
 # This is my End Sem Project 
 
 # Weather-Application
